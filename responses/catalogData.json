@@ -9,4 +9,14 @@
     "product_name": "Мышка",
     "price": 1000
   }
+  {
+    "id_product": 789,
+    "product_name": "Принтер",
+    "price": 15000
+  },
+  {
+    "id_product": 101,
+    "product_name": "Монитор",
+    "price": 22000
+  }
 ]
